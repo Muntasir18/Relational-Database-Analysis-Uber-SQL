@@ -41,5 +41,5 @@ I categorized data to create segments for the business:
 
 ## 📂 Project Resources
 - **SQL Script:** `uber_analysis_queries.sql` 
-- **Data:** Available in the SQL file headers.
+- **Data:** [SQL_uber](https://drive.google.com/drive/folders/1H2BwemVAheq1SmuS7YfhS64aGPKwQLbM?usp=sharing).
 
